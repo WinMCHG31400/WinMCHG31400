@@ -1,1 +1,1 @@
-winmchg31400@outlook.com
+A C++ Qt qml and sci-fi lover
